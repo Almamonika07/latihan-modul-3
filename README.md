@@ -2,6 +2,10 @@
 The Next Car
 
 
+
+
+
+
 2. Kegunaan DoorController.cs
 DoorController.cs adalah class yang digunakan untuk mengontrol dan mengolah data yang telah disediakan oleh model Door.cs . Terdapat beberapa function, seperti close () untuk menutup pintu, open () untuk membuka pintu, activateLock () untuk mengunci dan membuka kunci pintu, isClose () dan isLocked () untuk mengecek pint tertutup atau tidak dan mengecek apakah pintu terkunci atau tidak.
 
